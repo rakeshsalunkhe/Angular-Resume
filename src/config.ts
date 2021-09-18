@@ -45,5 +45,18 @@ export class Config {
       description: 'We working on build fully ERP system on python frappe framework, I manage user interface and user experience by using PHP for frontend development use frameworks like Laravel and integration with python API.'
     }
   ];
+  education:[
+    {
+      title: 'Founder',
+      school: 'Tatwerat',
+      fromDate: {
+        year: '2009',
+        month: 'Jun'
+      },
+      toDate: 'Present',
+      // tslint:disable-next-line:max-line-length
+      description: 'Started as a web designer, UI developer and windows applications developer with VB6 and right now we working with new technologies and framework like WordPress using php , javascript libraries (jQuery, Angular, Node.JS) and mobile cross platforms.'
+    },
+  ];
   xx: 'xxx';
 }
